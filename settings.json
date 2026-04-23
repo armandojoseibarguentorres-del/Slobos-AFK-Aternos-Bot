@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "UnibanMinecraftSrv.aternos.me:41031",
+    "port": 41031,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Intentando No apagar servidor",
+        "Intentando ser un 67",
+        "Johnn Pork Is Calling"
       ]
     },
     "chat-log": true,
