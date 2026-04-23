@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "arthesx124",
     "password": "Lol123",
     "type": "online"
   },
   "server": {
-    "ip": "UnibanMinecraftSrv.aternos.me",
+    "ip": "UnibanMinecraftSrv.aternos.me:41031",
     "port": 41031,
     "version": "1.21.4",
     "try-creative": false
