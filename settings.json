@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "UnibanMinecraftSrv.aternos.me:41031",
+    "ip": "UnibanMinecraftSrv.aternos.me",
     "port": 41031,
     "version": "1.21.4",
     "try-creative": false
