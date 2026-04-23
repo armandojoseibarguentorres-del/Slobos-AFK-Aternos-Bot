@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "password": "Lol123",
+    "type": "online"
   },
   "server": {
     "ip": "UnibanMinecraftSrv.aternos.me:41031",
